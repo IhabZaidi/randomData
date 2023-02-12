@@ -1,32 +1,158 @@
 [
    {
       "id":1,
-      "question_image":"https://images.pexels.com/photos/163077/mario-yoschi-figures-funny-163077.jpeg",
-      "question_text":"ما إسم هاته اللعبة ؟",
-      "question_answer":"ماريو"
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"ما هي أقدم أنواع العلوم ؟",
+      "question_answer":"علم الفلك"
    },
    {
       "id":2,
-      "question_image":"https://images.pexels.com/photos/617278/pexels-photo-617278.jpeg",
-      "question_text":"ما إسم هذا الحيوان ؟",
-      "question_answer":"قط"
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"كم يبلغ عدد ألوان قوس قزح ؟",
+      "question_answer":"سبعة"
    },
    {
-      "id":3,
-      "question_image":"https://images.pexels.com/photos/617278/pexels-photo-617278.jpeg",
-      "question_text":"ما هو أروع بلد في العالم ؟",
-      "question_answer":"وهران"
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"ما هي المادة التي تستخدم في تنقية المياه ؟",
+      "question_answer":"الزيوليت"
    },
    {
-      "id":4,
-      "question_image":"https://images.pexels.com/photos/3225517/pexels-photo-3225517.jpeg",
-      "question_text":"ما هو أروع بلد في العالم ؟",
-      "question_answer":"وهران"
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"كم يبلغ عدد كواكب المجموعة الشمسية ؟",
+      "question_answer":"ثمانية"
    },
    {
-      "id":5,
-      "question_image":"https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg",
-      "question_text":"ماشوق الملايين",
-      "question_answer":"همبرغر"
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"ماهو الكوكب الأحمر ؟",
+      "question_answer":"المريخ"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"ما هو كوكب القزم ؟",
+      "question_answer":"بلوتو"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"ما هو الكوكب البارد ؟",
+      "question_answer":"نبتون"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"ما هو العنصر الكيميائي المنتشر في جسم الإنسان ؟",
+      "question_answer":"الأكسجين"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"من هو مُكتشف الدورة الدموية ؟",
+      "question_answer":"وليام هارفي"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"من هو مُخترع المصباح الكهربائي ؟",
+      "question_answer":"أديسون"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"من هو مُخترع الدبابات ؟",
+      "question_answer":"سونيتون"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"ما هي المادة التي تنتج عن مزج عنصري النحاس والقصدير معا ؟",
+      "question_answer":"البرونز"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"ما هو اسم مرض المياه الزرقاء التي تصيب العيون ؟",
+      "question_answer":"الجلوكوما"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"ما هو الاسم العلمي لمرض سرطان الدم ؟",
+      "question_answer":"اللوكيميا"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"ما هو المرض الذي يسمى لدى العرب الإفرنجي ؟",
+      "question_answer":"الزهري"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"ما هو السبب الرئيسي وراء الإصابة بمرض الملاريا ؟",
+      "question_answer":"أنثى البعوض"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"ما هو الاسم العربي للإنزيمات ؟",
+      "question_answer":"الخمائر"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"ما هو المرض الذي يسبب ليونة ومرونة الشرايين ؟",
+      "question_answer":"تصلب الشرايين"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"ما هو الاسم العلمي لمرض الصفراء ؟",
+      "question_answer":"اليرقان"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"ما هو المرض الذي يتم نقله عن طريق القمل ؟",
+      "question_answer":"التيفوس"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"هل تعلم في أي جزء من جسم الإنسان تقع الغدة الدرقية ؟",
+      "question_answer":"الرقبة"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"هل تعلم ما هو الهرمون الذي تنتجه الغدة النخامية بجسم الإنسان ؟",
+      "question_answer":"هرمون النمو"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"هل تعلم في أي جزء في جسم الإنسان تقع القوقعة ؟",
+      "question_answer":"الأذن"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"هل تعلم ما هو العضو الوحيد الذي يوجد في جسم الإنسان لا يصل إليه الدم ؟",
+      "question_answer":"قرنية العين"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"هل تعلم ما هو العضو الوحيد الذي يستهلك كمية أكبر من الطاقة والأكسجين ؟",
+      "question_answer":"المخ"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"هل تعلم ما هي أكبر عضلة في جسم الإنسان ؟",
+      "question_answer":"عضلة الفخذ"
    }
 ]
