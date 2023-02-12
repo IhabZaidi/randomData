@@ -1,1 +1,116 @@
-
+[
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"مسورة قرآنية يطلق عليها عروس القرآن ؟",
+      "question_answer":"الرحمن"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"ما هي أقصر سورة بالقرآن الكريم ؟",
+      "question_answer":"الكوثر"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"ما هي أطول سورة قرآنية ؟",
+      "question_answer":"البقرة"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"أول من ألقى تحية الإسلام على الرسول صلى الله عليه وسلم ؟",
+      "question_answer":"أبو ذر الغِفاري"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"من أول من قام بتصنيف تفسير القرآن الكريم بالإسناد ؟",
+      "question_answer":"مالك بن أنس"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"ما هي السورة التي لا يوجد بها حرف الميم ؟",
+      "question_answer":"الكوثر"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"ما هو الطائر الذي تكلم كما ورد بالقرآن الكريم ؟",
+      "question_answer":"الهدهد"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"ما هي السورة القرآنية التي تبدأ آياتها بكلمة سورة ؟",
+      "question_answer":"النور"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"ما اسم السورة التي دعا بها النبي زكريا عليه السلام ؟",
+      "question_answer":"الأنبياء"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"ما اسم السورة التي ورد بها ذكر ذي القرنين ؟",
+      "question_answer":"الكهف"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"ما هي أول سورة مكية نزلت في مكة المكرمة ؟",
+      "question_answer":"العلق"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"ما هي أعظم سورة بالقرآن الكريم ؟",
+      "question_answer":"الفاتحة"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"ما هي السورة القرىنية التي أطلق عليها سورة التوديع ؟",
+      "question_answer":"النصر"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"سورة يفضل قراءتها يوم الجمعة ؟",
+      "question_answer":"الكهف"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"ما اسم السوة التي أطلق عليها سورة القتال ؟",
+      "question_answer":"محمد"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"ما هي السورة الملقبة ببني إسرائيل ؟",
+      "question_answer":"الإسراء"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"سورة يفضل قراءتها يوم الجمعة ؟",
+      "question_answer":"الكهف"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"ما هي السورة الملقبة بالفاضحة ؟",
+      "question_answer":"التوبة"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"ما هي السورة الملقبة بقلب القرآن ؟",
+      "question_answer":"يس"
+   }
+]
