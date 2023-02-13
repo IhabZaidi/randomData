@@ -98,8 +98,8 @@
    {
       "id":1,
       "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
-      "question_text":"سورة يفضل قراءتها يوم الجمعة ؟",
-      "question_answer":"الكهف"
+      "question_text":"اسم ثاني مسجد في الإسلام ؟",
+      "question_answer":"المسجد النبوي"
    },
    {
       "id":1,
@@ -112,5 +112,191 @@
       "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
       "question_text":"ما هي السورة الملقبة بقلب القرآن ؟",
       "question_answer":"يس"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"من أول شخص قاتل بالسيف ؟",
+      "question_answer":"إبراهيم الخليل"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"من هو أول شخص لبس السروال ؟",
+      "question_answer":"إبراهيم الخليل"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"كم عدد الرسل الذين ذكروا بالقرآن الكريم ؟",
+      "question_answer":"خمسة وعشرون"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"كم عدد غزوات النبي محمد صلى الله عليه وسلم ؟",
+      "question_answer":"سبعة وعشرون"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"من أول شخص صام ؟",
+      "question_answer":"آدم"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"من قائل هذه العبارة: “اطلبوا الموت توهب لكم الحياة” ؟",
+      "question_answer":"أبو بكر الصديق"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"كم عدد الرسل الذين ذكروا بالقرآن الكريم ؟",
+      "question_answer":"خمسة وعشرون"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"ما السورة التي يتواجد بها سجدتين ؟",
+      "question_answer":"الحج"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"من النبي الذي قتل جالوت ؟",
+      "question_answer":"داوود"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"من الذي تلقب بالفاروق ؟",
+      "question_answer":"عمر بن الخطاب"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"من هي مرضعة الرسول محمد صلى الله عليه وسلم ؟",
+      "question_answer":"حليمة السعدية"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"من النبي الذي بعث إلى مدين ؟",
+      "question_answer":"شعيب"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"من هو زوج اسماء بنت أبي بكر رضي الله عنهم ؟",
+      "question_answer":"الزبير بن العوام"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"كم عدد الرسل الذين ذكروا بالقرآن الكريم ؟",
+      "question_answer":"خمسة وعشرون"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"من أول من يقرع باب الجنة ؟",
+      "question_answer":"الرسول"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"من النبي الذي قتل جالوت ؟",
+      "question_answer":"داوود"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"من أول من أسلم من الرجال ؟",
+      "question_answer":"أبو بكر الصديق"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"من الذي لقب بحبر الأمة ؟",
+      "question_answer":"عبد الله بن عباس"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"من هو أول داعية إسلامي ؟",
+      "question_answer":"مصعب بن عمير"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"ما اسم أول ملك فرعوني آمن بالتوحيد ؟",
+      "question_answer":"اخناتون"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"ما هي أول صلاة فرضت على النبي محمد ؟",
+      "question_answer":"الظهر"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"من أول شخص قال “سبحان ربي الأعلى” ؟",
+      "question_answer":"إسرافيل"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"ما هو أول يوم خلقه الله سبحانه وتعالى ؟",
+      "question_answer":"الأحد"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"كم عدد سور القرآن التي افتتحت بثلاث حروف ؟",
+      "question_answer":"ثلاث عشرة"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"كم عدد الملائكة في غزوة البدر الذين قاتلوا مع رسول الله والمسلمين ؟",
+      "question_answer":"خمسة ألاف"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"أين يتواجد قبر النبي هود ؟",
+      "question_answer":"حضر موت"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"ما اسم امرأة لوط ؟",
+      "question_answer":"والهة"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"أين ولد عيسى عليه السلام ؟",
+      "question_answer":"بيت لحم"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"ما هو الحج الأصغر ؟",
+      "question_answer":"العمرة"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"من هم أنصار عيسى بن مريم والمؤمنين برسالته ؟",
+      "question_answer":"الحواريون"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/318451/pexels-photo-318451.jpeg",
+      "question_text":"ما هو الجبل الذي رست عليه سفينة نوح عليه السلام ؟",
+      "question_answer":"الجودي"
    }
 ]
