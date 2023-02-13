@@ -154,5 +154,161 @@
       "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
       "question_text":"هل تعلم ما هي أكبر عضلة في جسم الإنسان ؟",
       "question_answer":"عضلة الفخذ"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"ما هي المادة المستخدمة في تنقية مياه الشرب ؟",
+      "question_answer":"الزيوليت"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"كم عدد أسنان فم الإنسان ؟",
+      "question_answer":"اثنان وثلاثون"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"ما هو الكوكب الأكثر حراراة بين كواكب المجموعة الشمسية ؟",
+      "question_answer":"الزهرة"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"توجد أنسجة تقوم بربط العضلات بالعظام فما هي ؟",
+      "question_answer":"الأوتار"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"توجد طبقة بالجلد تغطي الشعر فما هي ؟",
+      "question_answer":"الميلانين"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"الطبقة الخارجية لجسم الإنسان تُسمى ؟",
+      "question_answer":"البشرة"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"من أي شئ يتم تكوين العمود الفقري ؟",
+      "question_answer":"فقرات"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"ما هو عدد صمامات القلب ؟",
+      "question_answer":"أربعة"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"العضو الوحيد في جسم الإنسان القادر على النمو في حالة قطع جزء منه هو ؟",
+      "question_answer":"الكبد"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"ما هو الجزء في النباتات المسؤول عن نقل الغذاء ؟",
+      "question_answer":"اللحاء"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"ماذا يحدث لمستوى الماء عند وضع كمية من الملح فيه ؟",
+      "question_answer":"ينخفض"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"مرض الزهايمر يسبب اضطرابًا في ؟",
+      "question_answer":"الذاكرة"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"في أي عمر يكتمل نموّ النخاع الشوكي عند الإنسان ؟",
+      "question_answer":"الأربعين"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"الجزء من النباتات المسؤول عن امتصاص الماء والمعادن من التربة يسمى ؟",
+      "question_answer":"الجذر"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"ماذا تصنع الأوراق في عملية البناء الضوئي ؟",
+      "question_answer":"الجلوكوز"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"ماذا يسمى الجزء الأنثوي في الزهرة ؟",
+      "question_answer":"الكربلة"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"تساهم النباتات في تثبيت أحد الغازات في التربة، ما هو ؟",
+      "question_answer":"النيتروجين"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"ما هو الجزء من جسم الإنسان المسؤول عن تنقية الدم بشكل دوري ؟",
+      "question_answer":"الكليتان"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"عندما يتمّ الضغط على المكابح، كيف يتأثّر التسارع ؟",
+      "question_answer":"يقل"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"من وضع النظرية النسبية ؟",
+      "question_answer":"أينشتاين"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"من اقترح فكرة تكميم الطاقة ؟",
+      "question_answer":"ماكس بلانك"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"من البحار التي تمتاز بحرارتها المرتفعة نسبيًا، وهو منطقة خطرة بسبب النشاط البركاني ؟",
+      "question_answer":"الكاريبي"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"ما هي أعمق بحيرة للمياه العذبة في العالم ؟",
+      "question_answer":"بايكال"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"أطول حيوان في العالم ؟",
+      "question_answer":"الزرافة"
+   },
+   {
+      "id":1,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"أكبر طائر في العالم ؟",
+      "question_answer":"النعامة"
+   },
+   {
+      "id":2,
+      "question_image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg",
+      "question_text":"تعتبر الحمامة رمزا لـ .. ؟",
+      "question_answer":"السلام"
    }
 ]
